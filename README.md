@@ -1,2 +1,2 @@
 # NeonTxt
-An editable text with blinkedneon light
+An editable text with blinked neon light
